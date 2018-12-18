@@ -1,0 +1,16 @@
+html,body {
+    margin:0;
+    overflow:hidden;
+}
+
+img {
+    overflow-y:auto;
+    height:100vh;
+    width: 50%;
+    float: right;
+
+}
+
+h1 {
+    color: red;
+}
