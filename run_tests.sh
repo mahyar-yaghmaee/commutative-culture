@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-python3.6 -m unittest
+/Library/Frameworks/Python.framework/Versions/3.6/bin/python3 -m unittest
