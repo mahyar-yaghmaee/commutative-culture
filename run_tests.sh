@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-python3 -m unittest
+python3.6 -m unittest
