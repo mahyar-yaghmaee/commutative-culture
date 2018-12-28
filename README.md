@@ -2,7 +2,7 @@
 
 This is based on python 3 (since Heroku runs on python 3)
 
-## Runnig tests locally
+## Running tests locally
 ```
-python3 test.py
+./run_tests.sh
 ```
