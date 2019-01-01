@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-docker stop commutative-culture
-docker rm commutative-culture
-docker rmi -f commutative-culture
+/usr/local/bin/docker stop commutative-culture
+/usr/local/bin/docker rm commutative-culture
+/usr/local/bin/docker rmi -f commutative-culture
