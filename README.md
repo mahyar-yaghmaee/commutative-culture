@@ -4,7 +4,12 @@ This is based on python 3 (since Heroku runs on python 3)
 
 ## Running tests locally
 ```
-./run_tests.sh
+./run_tests_locally.sh
+```
+
+## Running tests against a docker container (make sure there's no `commutative-culture` container already running.
+```
+./run_tests_against_docker.sh
 ```
 
 ## Run the app locally on docker container
